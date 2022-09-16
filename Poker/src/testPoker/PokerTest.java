@@ -26,7 +26,7 @@ public class PokerTest {
 		result = poker.isFullHouse(input, 0);
 		assertEquals(false, result);
 	}
-	// Test case 2: n = 5, cards = {"C2", "D2", "H2", "S3", "S4"};
+	// Test case 2: n = 5, cards = {"C2wewew", "D2", "H2", "S3", "S4"};
 	@Test
 	public void test22234() {
 		boolean result;
